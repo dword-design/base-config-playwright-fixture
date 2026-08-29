@@ -30,7 +30,7 @@
   },
   "dependencies": {
     "@dword-design/base": "^16.1.4",
-    "@dword-design/base-config-node": "^5.0.2",
+    "@dword-design/base-config-node": "^6.0.0",
     "endent": "npm:@dword-design/endent@^1.4.7"
   },
   "devDependencies": {
